@@ -1,6 +1,6 @@
 # Notification Service
 
-Ignite Lab Microservice  
+## Ignite Lab Microservice  
 Notifiction Service with Nest.js and Kafka  
 
 ```bash
