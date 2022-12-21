@@ -9,3 +9,7 @@ cd notification-service
 npm i
 npm run start
 ```
+
+```bash
+npx prisma studio
+```
