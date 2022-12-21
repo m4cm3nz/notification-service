@@ -10,6 +10,8 @@ npm i
 npm run start
 ```
 
+Create the database and open Prisma Studio
 ```bash
+npx prisma migrate deploy
 npx prisma studio
 ```
